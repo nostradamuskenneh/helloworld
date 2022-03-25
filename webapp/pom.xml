@@ -10,8 +10,8 @@
     <relativePath>../pom.xml</relativePath>
   </parent>
 
-  <artifactId>webapp</artifactId>
-  <packaging>ibee</packaging>
+  <artifactId>nadine</artifactId>
+  <packaging>war</packaging>
   <name>nadine</name>
   <description>nadine.</description>
 
