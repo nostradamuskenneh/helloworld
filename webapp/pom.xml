@@ -11,9 +11,9 @@
   </parent>
 
   <artifactId>webapp</artifactId>
-  <packaging>war</packaging>
-  <name>Webapp</name>
-  <description>Webapp.</description>
+  <packaging>ibee</packaging>
+  <name>nadine</name>
+  <description>nadine.</description>
 
   <build>
     <finalName>${project.artifactId}</finalName>
