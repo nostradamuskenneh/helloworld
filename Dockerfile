@@ -2,6 +2,6 @@
 FROM tomcat:8-jre8 
 
 # Maintainer 
-MAINTAINER "oumarkenneh" 
+MAINTAINER "nostradamus" 
 RUN cd webapps.dist && cp -R * ../webapps
 COPY ./webapp/target/webapp.war /usr/local/tomcat/webapps
